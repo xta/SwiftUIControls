@@ -13,6 +13,7 @@
 		CDF0414323408C220021F103 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDF0414223408C220021F103 /* Assets.xcassets */; };
 		CDF0414623408C220021F103 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDF0414523408C220021F103 /* Preview Assets.xcassets */; };
 		CDF0414923408C220021F103 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDF0414723408C220021F103 /* LaunchScreen.storyboard */; };
+		CDF0415123409CA20021F103 /* NextSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF0415023409CA20021F103 /* NextSheetView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CDF0414523408C220021F103 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CDF0414823408C220021F103 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CDF0414A23408C220021F103 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDF0415023409CA20021F103 /* NextSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextSheetView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CDF0413C23408C210021F103 /* AppDelegate.swift */,
 				CDF0413E23408C210021F103 /* SceneDelegate.swift */,
 				CDF0414023408C210021F103 /* ContentView.swift */,
+				CDF0415023409CA20021F103 /* NextSheetView.swift */,
 				CDF0414223408C220021F103 /* Assets.xcassets */,
 				CDF0414723408C220021F103 /* LaunchScreen.storyboard */,
 				CDF0414A23408C220021F103 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDF0413D23408C210021F103 /* AppDelegate.swift in Sources */,
+				CDF0415123409CA20021F103 /* NextSheetView.swift in Sources */,
 				CDF0413F23408C210021F103 /* SceneDelegate.swift in Sources */,
 				CDF0414123408C210021F103 /* ContentView.swift in Sources */,
 			);
